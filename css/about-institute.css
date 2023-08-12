@@ -1,0 +1,60 @@
+    /* table.aboutTable {
+      width: 68%;
+      margin: 10px;
+      background-color: #ffffff;
+      border-collapse: collapse;
+      border-width: 1px;
+      border-color: #cfcfcf;
+      border-style: solid;
+      color: #000000;
+    }
+    
+    table.aboutTable td, table.aboutTable th {
+      border-width: 1px;
+      font-size: 14px;
+      border-color: #cfcfcf;
+      border-style: solid;
+      padding: 6px;
+    }
+    
+    table.aboutTable thead {
+      background-color: #bbbbbb;
+    }
+
+    .sl{
+        width: 40px;
+        font-weight: bold;
+        text-align: center;
+    }
+    a{
+        text-decoration: none;
+    }
+
+    #head img{
+        width: 100%;
+    }
+
+    #aboutInstitute h2{
+        padding: 8px 5px;
+        color: blue;
+        font-size: 19px;
+    } */
+
+
+    .more-about-institute{
+      margin-top: 8px;
+    }
+
+    .resultstyle {
+      border: 1px solid #CCC;
+      width: auto;
+      margin-left: 0px;
+      text-align: center;
+      width: 98%;
+  }
+
+  .resultstyle td {
+    border: 1px solid #CCC;
+    text-align: left;
+    padding: 15px;
+}

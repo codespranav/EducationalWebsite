@@ -1,0 +1,13 @@
+.trades img{
+    width: 30%;
+    float: right;
+}
+
+.trades{
+    margin-bottom: 94px;
+    margin-right: 20px;
+
+}
+.trades .left-img {
+    float: left;
+}
